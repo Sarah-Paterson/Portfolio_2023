@@ -24,3 +24,11 @@
     gap: 15px;
     width: 100%;
 }
+
+.tab {
+    color: var(--color-text);
+}
+
+.tab:hover {
+    color: var(--color-primary);
+}
