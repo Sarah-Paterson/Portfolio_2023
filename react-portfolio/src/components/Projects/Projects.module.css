@@ -27,6 +27,7 @@
 
 .tab {
     color: var(--color-text);
+    font-family: var(--font-roboto);
 }
 
 .tab:hover {
