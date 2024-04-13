@@ -8,31 +8,40 @@ export const About = () => {
         <section className={styles.container} id="about">
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
-                <img
+                {/* <img
                 src={getImageUrl("about/aboutImage.png")}
                 alt="Me sitting with a laptop"
                 className={styles.aboutImage}
-                />
+                /> */}
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
+                        <img src={getImageUrl("about/cursor.png")} alt="Cursor Icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>Frontend Developer</h3>
-                            <p>I'm a frontend developer with experience in building responsive and optimized sites</p>
-                        </div>
-                    </li>
-                    <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/serverIcon.png")} alt="Server Icon" />
-                        <div className={styles.aboutItemText}>
-                            <h3>Backend Developer</h3>
+                            <h3>Web Developer</h3>
+                            <h4>Front-End Web Development</h4>
+                            <p>I'm a frontend developer with experience in building responsive and optimized sites.</p>
+                            <h4>Back-End Web Development</h4>
                             <p>I have experience developing fast and optimized back-end systems.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src={getImageUrl("about/cursorIcon.png")} alt="UI Icon" />
+                        <img src={getImageUrl("about/magic-wand.png")} alt="Design Icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>UI designer</h3>
-                            <p>I have designed things</p>
+                            <h3>Graphic Designer</h3>
+                            <h4>Art Direction</h4>
+                            <p>I have experience developing fast and optimized back-end systems.</p>
+                            <h4>Promotional Branding</h4>
+                            <p>I have experience developing fast and optimized back-end systems.</p>
+                        </div>
+                    </li>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/paintbrush-pencil.png")} alt="Art Icon" />
+                        <div className={styles.aboutItemText}>
+                            <h3>Fine Artist</h3>
+                            <h4>Painting</h4>
+                            <p>I have experience developing fast and optimized back-end systems.</p>
+                            <h4>Printing</h4>
+                            <p>I have experience developing fast and optimized back-end systems.</p>
                         </div>
                     </li>
                 </ul>
