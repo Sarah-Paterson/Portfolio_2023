@@ -1,0 +1,18 @@
+[
+    {
+      "school": "University of Denver",
+      "location": "Online",
+      "startDate": "April, 2023",
+      "endDate": "October, 2023",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "school": "John Brown University",
+      "location": "Siloam Springs, AR",
+      "startDate": "Aug, 2011",
+      "endDate": "May, 2015",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]
