@@ -1,29 +1,47 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Fine Artist - Painter",
+      "organisation": "Colorado Ski Chairs",
+      "startDate": "August 2022",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "I paint on a variety of materials including recycled skis, recycled snowboards, recycled barn wood, and other materials", 
+        "I work for clients to paint a design or landscape on their new furniture or wall art - many individual clients as well as bigger clients like Denver International Airport"],
+      "imageSrc": "history/colorado-ski-chairs.png"
+    },
+    {
+      "role": "Art Director / Graphic Designer",
+      "organisation": "ProLogo Branding",
+      "startDate": "November 2017",
+      "endDate": "April 2022",
+      "experiences": [
+        "Established the visual representation of each client company working with ProLogo Branding for promotional material", 
+        "Worked directly with client company designers, the company sales team, and the company production team for each project, having the final say in each design before it moved to production", "Developed creative solutions to complex design challenges", 
+        "Collaborated with cross-functional teams to ensure designs met business objectives", "Created a comprehensive style guide that improved the consistency of the company’s branding across all channels"],
+      "imageSrc": "history/prologo-branding.png"
+    },
+    {
+      "role": "Lead Embroiderer",
+      "organisation": "Cole Promo",
+      "startDate": "May 2017",
+      "endDate": "November 2017",
+      "experiences": [
+        "Responsible for the production of all custom embroidery projects using an embroidery machine",
+        "Maintained production records, including production reports and logs",
+        "Diagnosed and resolved machine malfunctions, minimizing production downtime and maintaining production goals"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/cole-promo.png"
+    },
+    {
+      "role": "Graphic Designer / Production Manager",
+      "organisation": "Maxx Sunglasses",
+      "startDate": "November 2015",
+      "endDate": "October 2016",
+      "experiences": [
+        "Worked directly with the Art Director as well as the Lead Marketer to create designs for their social media as well as websites",
+        "Developed a range of marketing materials resulting in improved customer engagement",
+        "Worked directly with the sales team for custom items and supervised all customization"
+      ],
+      "imageSrc": "history/maxx-sunglasses.png"
     }
   ]
