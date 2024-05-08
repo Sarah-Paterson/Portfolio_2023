@@ -45,7 +45,7 @@
 .btn {
     text-decoration: none;
     background-color: var(--color-primary);
-    color: var(--color-text);
+    color: var(--color-dark);
     border-radius: 20px;
     font-size: 25px;
     font-weight: 500;
