@@ -7,8 +7,8 @@ export const Hero = () => {
     return <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Sarah</h1>
-            <p className={styles.description}>I'm a graphic designer and full-stack web developer. 
-                I have a bachelor's degree in art and design and a certificate in full-stack web development, which allow me to combine my creativity and technical skills. 
+            <p className={styles.description}>I'm a graphic designer, full-stack web developer, and artist. 
+                I have a bachelor's degree in art and design and a certificate in full-stack web development. Essentially, I am a full time creative problem solver. 
                 Reach out if you'd like to learn more!
             </p>
             <div className={styles.btnContainer}>

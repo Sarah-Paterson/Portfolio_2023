@@ -24,7 +24,63 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
+      "title": "Express JS",
+      "imageSrc": "skills/expressjs.png"
+    },
+    {
+      "title": "jQuery",
+      "imageSrc": "skills/jQuery.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/SQL.png"
+    },
+    {
+      "title": "NoSQL",
+      "imageSrc": "skills/noSQL.png"
+    },
+    {
+      "title": "My SQL",
+      "imageSrc": "skills/MySQL.png"
+    },
+    {
+      "title": "Handlebars",
+      "imageSrc": "skills/handlebars.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "Illustrator",
+      "imageSrc": "skills/illustrator.png"
+    },
+    {
+      "title": "Photoshop",
+      "imageSrc": "skills/photoshop.png"
+    },
+    {
+      "title": "Lightroom",
+      "imageSrc": "skills/photoshop-lightroom.png"
+    },
+    {
+      "title": "Acrobat",
+      "imageSrc": "skills/acrobat.png"
+    },
+    {
+      "title": "LinkedIn",
+      "imageSrc": "skills/linkedin.png"
+    },
+    {
+      "title": "Slack",
+      "imageSrc": "skills/slack.png"
     }
   ]
