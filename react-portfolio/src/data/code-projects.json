@@ -1,26 +1,24 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Brewery Finder",
+      "imageSrc": "projects/code-brewrey-finder.png",
+      "description": "This is a project made to use HTML, CSS, and Javascript with third party APIs. Created in a team of three.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://ronbuttermore.github.io/brewery-finder/",
+      "source": "https://github.com/ronbuttermore/brewery-finder"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Ghostwriter",
+      "imageSrc": "projects/code-ghostwriter.png",
+      "description": "This is a project made to build a a real-world full-stack application using a host of programs together. Created in a team of four.",
+      "skills": ["Javascript", "Express", "Node", "Handlebars", "MySQL", "Sequelize", "Bulma", "ChatGPT", "Heroku"],
+      "source": "https://github.com/javieb5186/ghostwriter?tab=readme-ov-file"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "College Calculator",
+      "imageSrc": "projects/code-college-calculator.png",
+      "description": "This is a project made to create a collaborative MERN-stack single-page application to build a user-focused platform. Created in a team of four.",
+      "skills": ["Javascript", "CSS", "React", "GraphQL", "Mongoose", "Heroku", "Plotly"],
+      "source": "https://github.com/ronbuttermore/college-calculator"
     }
   ]
