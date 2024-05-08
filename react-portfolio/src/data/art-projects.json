@@ -1,26 +1,23 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Elephant Water Bottle",
+      "imageSrc": "projects/art-elephant.png",
+      "description": "This is a completely hand-painted custom water bottle complete with name and favorite animal.",
+      "skills": ["Paint Primer", "Acrylic Paint", "Paint Sealer"],
+      "source": "https://www.behance.net/gallery/24108839/Painted-Water-Bottles"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
+      "title": "The Great Unknown",
+      "imageSrc": "projects/art-turtle.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["Ink", "Illustration Board"],
+      "source": "https://www.behance.net/gallery/24118789/The-Great-Unknown"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Whitefish, MT",
+      "imageSrc": "projects/art-ski-mountain-chair.png",
+      "description": "This is a custom painted chiar made for a client who often skis Whitefish, MT.",
+      "skills": ["Oil-Based Paint"],
+      "source": "https://photos.app.goo.gl/kfn9jqcjcEwsmyy28"
     }
   ]

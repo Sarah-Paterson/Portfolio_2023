@@ -1,26 +1,23 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Edgewater",
+      "imageSrc": "projects/design-edgewater.png",
+      "description": "This is a project designing spirit merchandise for a central Florida highschool.",
+      "skills": ["Adobe Illustrator", " Pantone Matching System"],
+      "source": "https://www.behance.net/gallery/128428203/Edgewater-High-School-Spirit-Shirt-Design"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Zog Package",
+      "imageSrc": "projects/design-zog.png",
+      "description": "This is a project made to create packaging for the unique Zog figure.",
+      "skills": ["Adobe Illustrator"],
+      "source": "https://www.behance.net/gallery/36010933/ZOG"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "No Bad Days",
+      "imageSrc": "projects/design-no-bad-days.png",
+      "description": "This is a project for the promotion of a local bicycle shop.",
+      "skills": ["Adobe Illustrator"],
+      "source": "https://www.behance.net/gallery/128447753/No-Bad-Days"
     }
   ]
