@@ -8,7 +8,7 @@ Welcome to my Github! Here is my 2024 version of my online portfolio. As I am cu
 I built this page using React as a single page application. Feel free to check out my portfolio!
 
 
-[Here is the link to my live portfolio]().
+[Here is the link to my live portfolio](patersonportfolio.com).
 
 ---
 ---
